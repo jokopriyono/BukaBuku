@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Buka Buku</string>
+    <string name="kode_ISBN">Kode ISBN</string>
+    <string name="cek_btn">Cek</string>
 </resources>
